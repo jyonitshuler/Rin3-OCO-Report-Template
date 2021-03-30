@@ -18,7 +18,7 @@ As the [Annie E. Casey Foundation](https://www.aecf.org/) [KIDS COUNT](https://o
 # Report Types & Templates
 
 ## Report Summations
-This section will contain a template for summations of reports from other child welfare organizations, both in Oregon and nationally  #insert graph
+This section will contain a template for summations of reports from other child welfare organizations, both in Oregon and nationally
 
 ## Recent Legislation
 This section will contain a template for explanations of recent legislation tied to OCO's [**2021 Children's Agenda**](https://ourchildrenoregon.org/our-work/policy-advocacy/#childrens-agenda)
